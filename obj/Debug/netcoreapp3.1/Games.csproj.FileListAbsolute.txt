@@ -1,0 +1,17 @@
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\Games.exe
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\Games.deps.json
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\Games.runtimeconfig.json
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\Games.runtimeconfig.dev.json
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\Games.dll
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\Games.pdb
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.csproj.AssemblyReference.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.MatchingGame.resources
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.csproj.GenerateResource.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.AssemblyInfoInputs.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.AssemblyInfo.cs
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.csproj.CoreCompileInputs.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.dll
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.pdb
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.genruntimeconfig.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.Images.resources
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.Resources.resources

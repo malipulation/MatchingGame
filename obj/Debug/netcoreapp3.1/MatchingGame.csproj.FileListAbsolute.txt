@@ -1,0 +1,35 @@
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.exe
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.deps.json
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.runtimeconfig.json
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.runtimeconfig.dev.json
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.dll
+C:\Users\özcan\source\repos\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.pdb
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.Images.resources
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\Games.MatchingGame.resources
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.Resources.resources
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.csproj.GenerateResource.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.AssemblyInfoInputs.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.AssemblyInfo.cs
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.dll
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.pdb
+C:\Users\özcan\source\repos\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.exe
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.deps.json
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.runtimeconfig.json
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.dll
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\bin\Debug\netcoreapp3.1\MatchingGame.pdb
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.Images.resources
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\Games.MatchingGame.resources
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.Resources.resources
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.dll
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.pdb
+C:\Users\Asus\Desktop\Muhammed Ali Özcan HomeWork5\Games\Games\obj\Debug\netcoreapp3.1\MatchingGame.genruntimeconfig.cache
